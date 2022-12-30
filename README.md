@@ -1,4 +1,4 @@
-# Clustering for Airline Data
+# Clustering
 Perform clustering (hierarchical,K means clustering and DBSCAN) for the given dataset
 
 ##Air Line Descriotion
@@ -36,3 +36,13 @@ Flight_trans_12--Number of flight transactions in the past 12 months
 Days_since_enrolled--Number of days since enrolled in flier program
 
 Award--whether that person had award flight (free flight) or not
+
+
+#Crime Data Description
+Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime data and identify the number of clusters formed and draw inferences.
+
+Data Description:
+Murder -- Muder rates in different places of United States
+Assualt- Assualt rate in different places of United States
+UrbanPop - urban population in different places of United States
+Rape - Rape rate in different places of United States
